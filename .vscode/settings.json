@@ -1,0 +1,7 @@
+{
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/$defs/playbook": "file:///home/farayolaj/Documents/codes/learn-ansible/main-remote.yml",
+    "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/$defs/tasks": "file:///home/farayolaj/Documents/codes/learn-ansible/roles/setup/main.yml",
+    "https://raw.githubusercontent.com/awslabs/goformation/master/schema/cloudformation.schema.json": "file:///home/farayolaj/Documents/codes/learn-ansible/template.yml"
+  }
+}
